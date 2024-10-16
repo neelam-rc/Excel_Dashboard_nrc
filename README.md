@@ -8,11 +8,11 @@ A bike sales dashboard in Excel can provide a centralized view of data, which ca
 
 ## Project Structure
 
-### 1. Data cleaning: Remove duplicate entries, eliminate excess blanks and manual errors to ensure the accuracy of the data. 
-### 2. Data organization: Categorize age groups and convert abbreviations into full forms to improve readability. 
-### 3. Use pivot tables and charts: These can help visualize data and understand sales trends. 
-### 4. Add slicers: Slicers can help users filter data based on factors like marital status, occupation, education, and region. 
-### 5. Add a reset button: A reset button can help revert all slicers to their original state. 
+1. Data cleaning: Remove duplicate entries, eliminate excess blanks and manual errors to ensure the accuracy of the data. 
+2. Data organization: Categorize age groups and convert abbreviations into full forms to improve readability. 
+3. Use pivot tables and charts: These can help visualize data and understand sales trends. 
+4. Add slicers: Slicers can help users filter data based on factors like marital status, occupation, education, and region. 
+5. Add a reset button: A reset button can help revert all slicers to their original state. 
 
 ## Findings
 
