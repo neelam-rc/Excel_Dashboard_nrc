@@ -24,7 +24,7 @@ A bike sales dashboard in Excel can provide a centralized view of data, which ca
 
 ## Conclusion
 
-This project covers bike sales dataset with cleaning, organizing, and grouping data for further analysis. The interactive dashboard in Excel can help derive business decisions by understanding sales patterns and trends, customer purchase behaviour based on various factors.
+This project covers bike sales dataset with cleaning, organizing, and grouping data for further analysis. The interactive dashboard in Excel can help derive business decisions by understanding sales patterns and trends, customer purchase behavior based on various factors.
 
 ## Author - Neelam Chaudhari
 
